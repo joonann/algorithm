@@ -10,6 +10,8 @@
     <td align="center"><a href="https://github.com/amsan2"><img src="https://avatars.githubusercontent.com/amsan2" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/MyeongJinHan12"><img src="https://avatars.githubusercontent.com/MyeongJinHan12" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/awayjsh"><img src="https://avatars.githubusercontent.com/awayjsh" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/calendar2"><img src="https://avatars.githubusercontent.com/calendar2" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/joonann"><img src="https://avatars.githubusercontent.com/joonann" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sirlyun"><b>sirlyun</b></a></td>
@@ -17,6 +19,8 @@
     <td align="center"><a href="https://github.com/amsan2"><b>amsan2</b></a></td>
     <td align="center"><a href="https://github.com/MyeongJinHan12"><b>MyeongJinHan12</b></a></td>
     <td align="center"><a href="https://github.com/awayjsh"><b>awayjsh</b></a></td>
+    <td align="center"><a href="https://github.com/calendar2"><b>calendar2</b></a></td>
+    <td align="center"><a href="https://github.com/joonann"><b>joonann</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
@@ -24,6 +28,8 @@
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
 
@@ -32,7 +38,7 @@
 
 ## 📌 스터디 규칙
 - 당일에 알고리즘 문제 1개를 선정하여 푼다.
-- 플랫폼은 프로그래머스와 백준으로 지정한다. (백준: BOJ / 프로그래머스: PG)
+- 플랫폼은 프로그래머스와 백준으로 지정한다. (백준: BOJ / 프로그래머스: PGS)
 - 타인의 풀이가 이해되지 않거나 더 좋은 방법이 생각나면 해당 코드에 comment를 남긴다.
 - 긴 설명이 필요한 부분은 대면으로 질문한다.
 - 최대 1시간 반이 되어도 못풀겠는 문제나 왜 틀렸는지 모르겠는 문제는 틀린 코드와 모르는 부분을 주석으로 남겨 올린다.
@@ -60,8 +66,8 @@
 ## ⚠️ commit 컨벤션
 
 ```
-기본 제출 시에는 {플랫폼_문제 번호 또는 이름}: {사용 언어}
-이외에는 {태그}: {플랫폼_문제 번호 또는 이름} {커밋 메시지}
+기본 제출 시에는 {플랫폼_문제 번호}: {사용 언어}
+이외에는 {태그}: {플랫폼_문제 번호} {커밋 메시지}
 ```
 
 - 플랫폼에 따라 없는 내용은 생략 가능
